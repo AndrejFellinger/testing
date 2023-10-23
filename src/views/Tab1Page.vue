@@ -1,4 +1,7 @@
 <template>
+	<!-- 1. Moveni si toto do novej page, ktoru sprav napr v src/plugins/app@feed/feed.vue -->
+	<!-- 2. Fixni si router, lebo po prekliku z tabov sa to nezobrazi -->
+	<!-- 3. Presun component do src/plugins/app@feed/_components/a-featured-posts-slider.vue -->
   <Hero :data="hero" />
 </template>
 
