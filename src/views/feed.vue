@@ -27,7 +27,7 @@ import FeaturedPostSlider from '../plugins/app@feed/_components/a-featured-posts
           hashtags: ["vianoce", "markiza", "novinky", "fyp"],
         },
         {
-          url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/10/1200/675/Israeli-airstrike-in-Gaza.jpg?ve=1&tl=1",
+          url: "https://www.economist.com/cdn-cgi/image/width=1424,quality=80,format=auto/content-assets/images/20231021_CUP502.jpg",
           badgeTitle: "Článok",
           title: "Siruácia v Gaze sa stále zhoršuje. Od vypuknutia vojny bol zaznamenaný rekordný počet obetí.",
           hashtags: ["vojnavizraeli", "izrael", "novinky", "fyp"],
